@@ -47,9 +47,9 @@
 
 6. загрузить в репозиторий.
 
-Отчет доступен по [гиперссылке](https://github.com/numerolog/itlab/raw/main/lr3/ИДМ-22-02 Бондарь ЛР3 Отчет.pdf).
+Отчет доступен по [гиперссылке](https://github.com/numerolog/itlab/raw/main/lr3/%D0%98%D0%94%D0%9C-22-02%20%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%20%D0%9B%D0%A03%20%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf).
 
-Сценарий доступен по [гиперссылке]([https://github.com/numerolog/itlab/raw/main/lr3/ИДМ-22-02](https://github.com/numerolog/itlab/raw/main/lr3/ИДМ-22-02 Бондарь ЛР3 Сценарий для Cisco Packet Tracer.pka) Бондарь ЛР3 Отчет.pdf).
+Сценарий доступен по [гиперссылке](https://github.com/numerolog/itlab/raw/main/lr3/ИДМ-22-02](https://github.com/numerolog/itlab/raw/main/lr3/%D0%98%D0%94%D0%9C-22-02%20%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D1%8C%20%D0%9B%D0%A03%20%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20Cisco%20Packet%20Tracer.pka).
 
 
 
